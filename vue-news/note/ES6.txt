@@ -1,0 +1,6 @@
+
+# this..
+  function 안에서 호출한 this와 function 밖에서 호출한 this의 scope가 다르다.
+  화살표 함수를 사용하면 function 밖에서 사용한 this와 동일한 효과를 갖게 된다.
+  
+# 콜백함수
